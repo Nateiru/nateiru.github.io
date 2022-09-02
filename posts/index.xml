@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Nateiru&#39;s Blog</title>
+        <link>http://Nateiru.github.io/posts/</link>
+        <description>所有文章 | Nateiru&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zyzhu2001@gmail.com (Nateiru)</managingEditor>
+            <webMaster>zyzhu2001@gmail.com (Nateiru)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 28 Aug 2022 21:54:48 &#43;0800</lastBuildDate><atom:link href="http://Nateiru.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>主题文档 - 内容</title>
+    <link>http://Nateiru.github.io/markdown/</link>
+    <pubDate>Sun, 28 Aug 2022 21:54:48 &#43;0800</pubDate><author>zyzhu2001@gmail.com (Nateiru)</author><guid>http://Nateiru.github.io/markdown/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.webp" referrerpolicy="no-referrer">
+            </div><p>了解如何在 <strong>FeelIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
+</item>
+</channel>
+</rss>
